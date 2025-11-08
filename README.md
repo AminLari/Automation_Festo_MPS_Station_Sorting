@@ -63,16 +63,16 @@ If you’d like to explore the logic or replicate the system:
 ## Program Structure
 **1. Main OB1**
 <p> 
-  <img src="https://github.com/user-attachments/assets/f1a9e919-a818-422b-9007-581016008d4c" width="1000">
+  <img src="https://github.com/user-attachments/assets/f1a9e919-a818-422b-9007-581016008d4c" width="500">
 </p>
 **2. Control Panel**
 <p>
-<img src="https://github.com/user-attachments/assets/48a25034-5a76-464f-a2f3-99e785253211" width="1000">
+<img src="https://github.com/user-attachments/assets/48a25034-5a76-464f-a2f3-99e785253211" width="500">
 </p>
 
 **3. Sorting Logic**
 <p>
-<img src="https://github.com/user-attachments/assets/b08addd7-8b1f-4399-b9c7-217299ea41e1" width="1000">
+<img src="https://github.com/user-attachments/assets/b08addd7-8b1f-4399-b9c7-217299ea41e1" width="500">
 </p>
 
 ## 📞 Contact
