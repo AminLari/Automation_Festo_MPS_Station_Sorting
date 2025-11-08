@@ -84,7 +84,7 @@ If you’d like to explore the logic or replicate the system:
 
 **Video**
 <p>
-https://github.com/user-attachments/assets/504b31a1-a7f8-4264-a5af-2fb3d15dacc8
+<img src="https://github.com/user-attachments/assets/504b31a1-a7f8-4264-a5af-2fb3d15dacc8" width="600">
 </p>
 
 ## 📞 Contact
