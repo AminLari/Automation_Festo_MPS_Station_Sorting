@@ -47,10 +47,10 @@ Official reference:
 If you’d like to explore the logic or replicate the system:
 
 1. Open **Siemens TIA Portal** (vXX or later).  
-2. Import the `.zap16` project file containing:  
-   - `FB_ControlPanel` (SFC)  
-   - `FB_SortingTask` (SFC)  
-   - `OB1_Main` (LAD)  
+2. Import the `Festo MPS Sorting.zap16` project file containing:
+   - `Main OB1` (LAD)   
+   - `Control Panel FB` (SFC)  
+   - `Sorting Task FB` (SFC)      
 3. Assign I/O according to the MPS station wiring diagram.  
 4. Download the project to the **S7-1500 PLC** and start the station in manual or automatic mode.
 
