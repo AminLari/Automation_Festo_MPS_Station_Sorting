@@ -82,9 +82,10 @@ If you’d like to explore the logic or replicate the system:
 - Improved control structure through **SFC-LAD integration**.  
 - Demonstrated proficiency in **industrial automation**, **PLC programming**, and **system design**.    
 
-**Video**
-<p>
-<img src="https://github.com/user-attachments/assets/504b31a1-a7f8-4264-a5af-2fb3d15dacc8" width="600">
+**Demo Video**
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/504b31a1-a7f8-4264-a5af-2fb3d15dacc8" width="800" controls></video>
 </p>
 
 ## 📞 Contact
