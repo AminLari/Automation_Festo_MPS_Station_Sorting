@@ -38,12 +38,6 @@ The system classifies workpieces by **material** and **color**, using a sequence
 - **Main OB1:**  
   Implemented in **Ladder Logic**, importing the two SFC-based function blocks for modular execution.  
 
-## Results
-
-- Achieved **complete automation** of the sorting station.  
-- Improved control structure through **SFC-LAD integration**.  
-- Demonstrated proficiency in **industrial automation**, **PLC programming**, and **system design**.    
-
 ## Documentation
 Official reference:  
 🔗 [Festo MPS Sorting Station Documentation](https://ip.festo-didactic.com/Infoportal/MPS/SortingStation/EN/index.html)
@@ -79,6 +73,18 @@ If you’d like to explore the logic or replicate the system:
 **4. HMI**
 <p>
 <img src="https://github.com/user-attachments/assets/def34ab6-4919-413f-9337-018646b86d37" width="400">
+</p>
+
+
+## Results
+
+- Achieved **complete automation** of the sorting station.  
+- Improved control structure through **SFC-LAD integration**.  
+- Demonstrated proficiency in **industrial automation**, **PLC programming**, and **system design**.    
+
+**Video**
+<p>
+https://github.com/user-attachments/assets/504b31a1-a7f8-4264-a5af-2fb3d15dacc8
 </p>
 
 ## 📞 Contact
