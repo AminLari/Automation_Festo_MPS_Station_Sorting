@@ -16,7 +16,7 @@ The system classifies workpieces by **material** and **color**, using a sequence
 - Modular and reusable PLC function blocks for efficient debugging and expansion.  
 
 ## System Architecture
-<p> 
+<p align="center"> 
   <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="600">
 </p>
 
@@ -58,17 +58,17 @@ If you’d like to explore the logic or replicate the system:
 
 ## Program Structure
 **1. Main OB1**
-<p> 
+<p align="center"> 
   <img src="https://github.com/user-attachments/assets/f1a9e919-a818-422b-9007-581016008d4c" width="400">
 </p>
 
 **2. Control Panel**
-<p>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/f8c3f649-97f0-4f1a-9367-b7a8e98c635f" width="400">
 </p>
 
 **3. Sorting Logic**
-<p>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/b08addd7-8b1f-4399-b9c7-217299ea41e1" width="400">
 </p>
 
