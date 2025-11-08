@@ -1,7 +1,7 @@
 # Festo MPS Sorting Station Automation
 
 ## Overview
-Automation of the **Festo MPS Sorting Station** using **Siemens TIA Portal** and **S7-1200 PLC**.  
+Automation of the **Festo MPS Sorting Station** using **Siemens TIA Portal** and **SIMATIC S7-1500 PLC**.  
 The system classifies workpieces by **material** and **color**, using a sequence of sensor readings and actuator controls coordinated through a modular PLC program.
 
 <p> 
