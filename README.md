@@ -67,10 +67,8 @@ If you’d like to explore the logic or replicate the system:
 </p>
 
 **2. Control Panel**
-<img width="281" alt="image" src="https://github.com/user-attachments/assets/8a92dee3-58f8-4ef0-b634-85b60bb38d77" />
-
 <p>
-<img src="https://github.com/user-attachments/assets/48a25034-5a76-464f-a2f3-99e785253211" width="400">
+<img src="https://github.com/user-attachments/assets/f8c3f649-97f0-4f1a-9367-b7a8e98c635f" width="400">
 </p>
 
 **3. Sorting Logic**
